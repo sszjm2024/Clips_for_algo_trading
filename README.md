@@ -4,3 +4,4 @@ Welcome to the Clips_for_algo_trading. This is a repository for factor/model/dat
 3. Time Series Model to Predict Volatility: I employed a famous time series model GARCH(p,q) to predict the volatility of a specfic stock. It included how to address data, how to pick the hyperparameters, and the fitness of the GARCH(p,q) model.
 4. Genearator helper for cross validation: an implementation of cross vaildation to increase usage of data for train/testing sets employed by sklearn machine learning algorithm.
 5. Rebalance strategy: The notebook demonstrates a useful function to rebalance portfolio with an example of employing it.
+6. A brief for spacy model: An introduction for spaCy model
